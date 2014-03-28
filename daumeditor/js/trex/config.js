@@ -89,7 +89,8 @@ var TrexConfig = function() {
 			attacher: { },
 			searcher: { }
 		},
-		plugin: { }
+		plugin: { },
+        	postbackenabled : _FALSE
 	};
 	
     var _createAnchors = function() {
